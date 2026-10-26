@@ -1,0 +1,1 @@
+DATA NOTICE: The bundled events.csv is SYNTHETIC demo data, not the Retailrocket dataset. Run scripts/analyze.py --data PATH for a real CSV.

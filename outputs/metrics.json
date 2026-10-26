@@ -1,0 +1,10 @@
+{
+  "viewers": 22000,
+  "added_to_cart": 7099,
+  "purchasers": 3242,
+  "view_to_cart_rate": 0.3226818181818182,
+  "cart_to_purchase_rate": 0.4566840400056346,
+  "overall_conversion_rate": 0.14736363636363636,
+  "source_filename": "events.csv",
+  "demo_data": true
+}
